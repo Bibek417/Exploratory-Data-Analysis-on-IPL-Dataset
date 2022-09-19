@@ -17,6 +17,6 @@ Using EDA to find out most successful teams, player stats like best strik rate b
 
 
 ### About dataset 
-matches.csv - it's contain data related to matches played in every season, which teams are playing each other, detail of umpire, venue, player of the match etc.
-deliveries.csv - it's contain data related to each and every ball, what happen in that ball, type of wicket, runs conceded, bowler, batsman, fielders etc.
+*matches.csv - it's contain data related to matches played in every season, which teams are playing each other, detail of umpire, venue, player of the match etc.
+*deliveries.csv - it's contain data related to each and every ball, what happen in that ball, type of wicket, runs conceded, bowler, batsman, fielders etc.
 
