@@ -8,10 +8,10 @@ Using EDA to find out most successful teams, player stats like best strik rate b
 4. Teams wise Winning percentage while bat first and field first 
 5. Top 10 highest run scoreres 
 6. Top 10 highest strikrate batsman 
-7. Top 10 highest wicket taker 
+7. Top 10 highest wicket taker bowler
 8. Top 10 highest economical bowler 
-9. Top 10 death over specialist 
-10. Top 10 Big hitters 
+9. Top 10 death over specialist bowler 
+10. Top 10 Big hitters batsman
 11. Top 10 fileders according to catches and run outs 
 12. Top 10 wicket keepers 
 
