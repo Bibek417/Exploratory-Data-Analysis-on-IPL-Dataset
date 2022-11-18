@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis-on-IPL-Dataset
 Using EDA to find out most successful teams, player stats like best strik rate batsman, and other factors contributing win or loss of a team
 
+## Youtube link -> https://youtu.be/oErOgYPda0o
+
 ### some important stats i findout while analysing the dataset is listed below 
 1. Venue wise winning percentage while bat first and bowl first 
 2. Most player of the match winner player 
